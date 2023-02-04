@@ -1,0 +1,21 @@
+This is a Java program that implements the Affine Cipher encryption and decryption technique. The Affine Cipher is a type of monoalphabetic substitution cipher that encrypts a message by replacing each letter with a corresponding letter in the alphabet, based on a mathematical function.
+
+The program takes a plaintext input from the keyboard using the Scanner class and displays its equivalent ciphertext after encryption. It also decrypts the ciphertext to retrieve the original plaintext.
+
+The program has three methods:
+
+'main': This method is the entry point of the program. It takes user input, calls the encrypt method to encrypt the plaintext and displays the ciphertext. It then calls the decrypt method to retrieve the original plaintext and displays it.
+
+'encrypt': This method takes a plaintext string as input and returns its equivalent ciphertext. It uses the Affine Cipher encryption formula to replace each letter in the plaintext with a corresponding letter in the alphabet, based on the mathematical function. The function parameters a and b are hardcoded in the method.
+
+'decrypt': This method takes a ciphertext string as input and returns the original plaintext. It uses the Affine Cipher decryption formula to replace each letter in the ciphertext with a corresponding letter in the alphabet, based on the mathematical function. The function parameters a, b, and a_inv are hardcoded in the method.
+
+The program is expected to be packaged into a zip file with a description file and submitted to the concerned faculty.
+
+Output:
+
+Enter plaintext: There has been attack in the east.
+Ciphertext: Zrcpc riu nccv izzisg wv zrc ciuz.
+Decrypted Text: There has been attack in the east.
+
+

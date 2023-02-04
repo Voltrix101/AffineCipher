@@ -1,5 +1,5 @@
 Affine Cipher
-A Java program that implements Affine Cipher encryption and decryption. The program takes plaintext as input from the user and displays its equivalent ciphertext after encryption. The ciphertext is then decrypted to get the same plaintext.
+-A Java program that implements Affine Cipher encryption and decryption. The program takes plaintext as input from the user and displays its equivalent ciphertext after encryption. The ciphertext is then decrypted to get the same plaintext.
 
 The program has three methods:
 

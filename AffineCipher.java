@@ -1,3 +1,6 @@
+//Amrito Ballav Roy
+//Reg no-2241018182
+//Sec-2241013
 import java.util.Scanner;
 
  public class AffineCipher {
